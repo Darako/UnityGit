@@ -4,7 +4,60 @@ timeCreated: 1431112694
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: anclaje
+    100002: Cylinder
+    100004: Cylinder_1
+    100006: Cylinder_2
+    100008: Cylinder_3
+    100010: Cylinder_4
+    100012: Cylinder_5
+    100014: Cylinder_6
+    100016: Cylinder_7
+    100018: estructura
+    100020: tienda
+    100022: //RootNode
+    400000: anclaje
+    400002: Cylinder
+    400004: Cylinder_1
+    400006: Cylinder_2
+    400008: Cylinder_3
+    400010: Cylinder_4
+    400012: Cylinder_5
+    400014: Cylinder_6
+    400016: Cylinder_7
+    400018: estructura
+    400020: tienda
+    400022: //RootNode
+    2300000: Cylinder
+    2300002: Cylinder_1
+    2300004: Cylinder_2
+    2300006: Cylinder_3
+    2300008: Cylinder_4
+    2300010: Cylinder_5
+    2300012: Cylinder_6
+    2300014: Cylinder_7
+    2300016: tienda
+    3300000: Cylinder
+    3300002: Cylinder_1
+    3300004: Cylinder_2
+    3300006: Cylinder_3
+    3300008: Cylinder_4
+    3300010: Cylinder_5
+    3300012: Cylinder_6
+    3300014: Cylinder_7
+    3300016: tienda
+    4300000: Cylinder_7
+    4300002: Cylinder_5
+    4300004: Cylinder_6
+    4300006: Cylinder_4
+    4300008: Cylinder_3
+    4300010: Cylinder_2
+    4300012: Cylinder_1
+    4300014: Cylinder
+    4300016: tienda
+    7400000: C4D Animation Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
