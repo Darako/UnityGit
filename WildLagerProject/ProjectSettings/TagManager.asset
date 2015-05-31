@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Mision01
+  - Muro01
+  - Mision02
+  - Muro02
   layers:
   - Default
   - TransparentFX
